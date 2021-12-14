@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Example graph
+How likely are you to speak about the environment if you have an academic degree?
+
+![Image](src)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
