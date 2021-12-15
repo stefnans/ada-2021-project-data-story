@@ -2,7 +2,21 @@
 
 You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Organization
+1. Identifying the most common profile to talk about a topic
+2. A time analysis of the topics (Questions 3 and 4)
+3. Environment topic wrt to other topics (Question 5)
+4. Representation of topics in different newspapers (Question 6)
+
+### Stephane
+
+### Santiago
+
+### Nearchos
+
+### Ansgar
 
 ### Example graph
 How likely are you to speak about the environment if you have an academic degree? You're not, here's why:
