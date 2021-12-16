@@ -1,4 +1,4 @@
-## Who said what, where, when and about what?
+## How is the environment represented ?
 
 You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-
 4. Representation of topics in different newspapers (Question 6)
 
 ### Would you talk about the environment?
-<p align="center">
+<p align="center" style="padding:20px;" >
   <img src="resources/unknown_speaker_profile.png" alt="unknown speaker profile"  />
 </p>
 
