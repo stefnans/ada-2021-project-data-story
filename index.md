@@ -11,7 +11,7 @@ You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-
 4. Representation of topics in different newspapers (Question 6)
 
 ### Would you talk about the environment?
-![unknown speaker profile](resources\unkown_speaker_profile.svg)
+![unknown speaker profile](resources/unknown_speaker_profile.png)
 
 ### Santiago
 
