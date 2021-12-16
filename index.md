@@ -10,7 +10,8 @@ You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-
 3. Environment topic wrt to other topics (Question 5)
 4. Representation of topics in different newspapers (Question 6)
 
-### Stephane
+### Would you talk about the environment?
+![unknown speaker profile](resources\unkown_speaker_profile.svg)
 
 ### Santiago
 
