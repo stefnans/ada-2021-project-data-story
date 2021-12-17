@@ -145,4 +145,4 @@ We've seen that the environment is not equally represented across the media.
 
 A potential sentiment analysis on the quotes analysed could further complement the work done so far.
 
-For a more detailed analysis you can visit our [original project Girhub page](https://github.com/epfl-ada/ada-2021-project-comic-sans).
+For a more detailed analysis you can visit our [original project Github page](https://github.com/epfl-ada/ada-2021-project-comic-sans).
