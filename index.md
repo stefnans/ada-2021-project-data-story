@@ -78,11 +78,19 @@ To begin with, we noticed that in general the percentage of quotations related t
 Now coming back to our initial question, is the climate change sufficiently represented in the media? If only 1% of the quotations coming from politicians are about it do you think that that's enough to save the world? We believe that this question, is a question that every person should answer for himself.
 
 ## 4. Does it matter what you read or watch?
+
+To understand a bit more in depth which profiles of speakers are relevant when considerin specific news papers, we now focus on the top 10 news sources that we obtained by considering the entire environmental quotes between 2018 and 2020. We then specifically analyzed the following attributes 
+
+- the speakers political party to see common profiles among news sources.
+- their occupation which is often also linked to their political views.
+- the age, which is especially interesting as more and more young people are present in social networks (think of Fridays for Future)
+
 <p align="center" style="padding:20px;" >
   <img src="resources/distribution_top4_pol_parties.png" alt="unknown speaker profile"  />
 </p>
 
-We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source *breitbart* (something unusual perhaps). 
+We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source *breitbart* (something unusual perhaps).
+Also other parties are often represented such as the Autralian Labor Party, especially in brisbanenews an Australian newspaper.
 
 <p align="center" style="padding:20px;" >
   <img src="resources/distribution_jobs_pernews.png" alt="unknown speaker profile"  />
