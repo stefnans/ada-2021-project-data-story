@@ -1,19 +1,34 @@
-## How is the environment represented ?
+# How green is the media?
 
-You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center" style="padding:10px;" >
+  <img src="resources/newspaper_clipping_environment.jpg" alt="newspaper clipping environment"  />
+</p>
+
+Earth is experiencing a climate emergency as the climate is currently changing more rapidly than ever. In the scientific world, this has already been established but what about everyone else? The responsibility to communicate the causes, the consequences but also the means to limit global warming to normal people lies with the media. Our goal is to understand how the media has responded to this crisis by investigating the role of media sources when reporting speakers' opinion by analyzing their quotes. We will examine the quantity of quotes reported over time and their proportion compared to other topics to obtain an estimate of the relevance of the topic at hand. Moreover, we identify key characteristics of speakers in a given media source and compare these characteristics between different news sources. Opinions are shaped daily by the media and therefore we believe holding them accountable when it comes to urgent matters like this is essential.
+
+For this study, we're conducting our analysis on the Quotebank dataset from the period of 2018-2020. Quotebank is a dataset of quotations from different newspapers and media sources, attributed to their speakers. This provides us with a rich dataset of quotations with different topics, from which we can filter the ones that talk about the environment, and upon which we can base our data story upon.
 
 
-
-### Organization
-1. Identifying the most common profile to talk about a topic
+## Organization
+1. Analysis of the most common profiles of the speakers who talk about the environment.
 2. A time analysis of the topics (Questions 3 and 4)
 3. Environment topic wrt to other topics (Question 5)
 4. Representation of topics in different newspapers (Question 6)
 
-### Would you talk about the environment?
+## 1.  Would you talk about the environment?
+The subject of the environment is brought to light by the people who talk about it. So if we're asking the question of whether the environment is well represented in the media, it stands to reason to know by whom is it usually represented.
+
+In that sense, it's interesting to see who are the people that talk about the environment in the media and what are the characteristics that bring them together. In other words, what is **the common profile for the people that talk about the environment?**.
+
+
 <p align="center" style="padding:20px;" >
   <img src="resources/unknown_speaker_profile.png" alt="unknown speaker profile"  />
 </p>
+ 
+
+ For this, we filtered the quotations that talk about the environment, and we retrieved their corresponding speakers along with their characteristics (or **features**). Our method was simple enough.
+
+ The method was simple enough 
 
 ### Santiago
 
@@ -49,6 +64,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Conclusion
+In this study, we've tried to answer the question about whether the environment has a good representation in the media. It's a hard question to answer so we approached it from different angles: 
+- It was interesting to see who's likely to speak about the environment 
+- 
+-
+- 
+
+We've seen that the environment is not equally represented across the media. 
+TODO: ouverture
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
@@ -58,3 +83,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
