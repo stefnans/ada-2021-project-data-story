@@ -32,7 +32,7 @@ In that sense, it's interesting to see who are the people that talk about the en
 
 For instance, only 1% of the speakers are recorded having an academic degree. So if we count the ones who have spoken about the environment, we are bound to find that most them are uneducated because of the underlying overall distribution of the speakers having an academic degree or not. This can make us draw bad conclusions from this.
 
-We need to come up with a better metric, that measures approximately the **likelihood of speaker talking about the environment based on a certain feature**. For this we can use the **ratio of environmental speakers per feature**. That is for a certain feature f we calculate:
+We need to come up with a better metric, that measures approximately the **likelihood of speaker talking about the environment based on a certain feature**. For this we can use the **ratio of environmental speakers per feature** or in short **the environmental ratio**. That is for a certain feature f we calculate:
 
 *# environmental speakers with feature f / total # of speakers with feature f*
 
@@ -40,6 +40,11 @@ and we can translate this into the likelihood of speaker speaking about the envi
 
 ![Environmental Ratios of top occupations vs Top environmental ratios](resources/top_ratios_vs_ratios_tops.png)
 
+For example, using this ratio we can see that the jobs with the highest environmental ratio tend to be within **Sports** (e.g. football player...) & **Arts**(e.g. musician, actor).
+
+Using this approach we get the following:
+
+[TODO]
 
  Note that up until now, we **isolated each feature** and then we did analysis on it separately from the other features. But one must remember that a speaker's profile is made up of several features, and sometimes the distribution of one feature may affect the distribution of another. And hence analysis should be made on the profile as a combined set of features, and not as a combination of analysis of each separate feature. 
 
