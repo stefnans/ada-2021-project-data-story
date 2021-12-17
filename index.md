@@ -96,15 +96,15 @@ First of all, we can see that the proportions don't seem to vary that much over 
 
 ## 3. Are we being fair ? A year in review. 
 
-Is the environment equally represented in relation with other crucial topics? To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. So, to answer this question we studied how these topics were represented during 2020.
+Is the environment equally represented in relation with other crucial topics? To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potentially devastating effects on the community. So, to answer this question we studied how the aforementioned topics were represented during 2020.
 
-To begin with, we noticed that in general the percentage of quotations related to the environment was less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment.
+To begin with, we noticed that in general the percentage of quotations related to climate change was less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment.
 
 <p align="center" style="padding:20px;" >
   <img src="resources/topic_distribution.jpg" alt="unknown speaker profile"  />
 </p>
 
- Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made the same group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
+ Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made the same group of people, what percentage of these quotes was related to the environment ? Based on our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
 
 <p align="center" style="padding:20px;" >
   <img src="resources/occupation_percentages.jpg" alt="unknown speaker profile"  />
@@ -114,7 +114,7 @@ Now coming back to our initial question, is the climate change sufficiently repr
 
 ## 4. Does it matter what you read?
 
-To understand a bit more in depth which profiles of speakers are relevant when considering specific news papers, we now focus on the top 10 news sources that we obtained by considering the entire environmental quotes between 2018 and 2020. We then specifically analyzed the following attributes 
+To understand a bit more in depth which profiles of speakers are relevant when considerin specific news papers, we now focus on the top 10 news sources that we obtained by considering the entire environmental quotes between 2018 and 2020. We then specifically analyzed the following attributes 
 
 - the speakers political party to see common profiles among news sources.
 - their occupation which is often also linked to their political views.
@@ -139,7 +139,9 @@ In this study, we've tried to answer how the environment is represented in the m
 - First, it was interesting to see who's likely to speak about the environment. We took a simplistic approach into observing the features of a speaker's profile and which ones made them more likely to speak about the environment. This of course is not a perfect representation of the actual reality. We need to do heavy regression analysis to pinpoint the best features we can use from a speaker's profile to accomplish our task. But it already gives a good idea of what a typical environment speaker would be, and whether it lines up with your expectations. 
 - The time analysis shows a potential improvement in the media's portrayal of environment related topics (i.e. overall increase in the number of articles environment related over time). Unfortunately, said improvement came to a halt, presumably due to unprecented events which stole the media's attention (e.g. COVID-19 outbreak).
 - On the one hand it is equally represented with other similar topics but on the other hand it is under-represented by politicians in comparison with the scientific community.
-- Environmental topics is almost equally distributed among the top 10 news sources. Especially speakers belonging to the Democratic party were overrepresented and the right-winged news magazine breitbart quoted people from that party surprisingly often, something that one would not expect. 
+- 
+
+We've seen that the environment is not equally represented across the media. 
 
 A potential sentiment analysis on the quotes analysed could further complement the work done so far.
 
