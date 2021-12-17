@@ -61,13 +61,15 @@ Now if we combine the top ratios from each feature separately, we get the follow
 
 ## 3. Are we being fair ? A year in review. 
 
-Is the environment equally represented in relation with other crucial topics? To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. To begin with, we noticed that during 2020 the percentage of quotations related to the environment were less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment.
+Is the environment equally represented in relation with other crucial topics? To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. So, to answer this question we studied how these topics were represented during 2020.
+
+To begin with, we noticed that in general the percentage of quotations related to the environment was less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment.
 
 <p align="center" style="padding:20px;" >
   <img src="resources/topic_distribution.jpg" alt="unknown speaker profile"  />
 </p>
 
- Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made by this group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
+ Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made the same group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
 
 <p align="center" style="padding:20px;" >
   <img src="resources/occupation_percentages.jpg" alt="unknown speaker profile"  />
@@ -75,7 +77,7 @@ Is the environment equally represented in relation with other crucial topics? To
 
 Now coming back to our initial question, is the climate change sufficiently represented in the media? If only 1% of the quotations coming from politicians are about it do you think that that's enough to save the world? We believe that this question, is a question that every person should answer for himself.
 
-## Does it matter what you read or watch?
+## 4. Does it matter what you read or watch?
 <p align="center" style="padding:20px;" >
   <img src="resources/distribution_top4_pol_parties.png" alt="unknown speaker profile"  />
 </p>
