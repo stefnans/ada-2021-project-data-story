@@ -61,9 +61,17 @@ Is the environment equally represented in relation with other crucial topics? To
 
 Now coming back to our initial question, is the climate change sufficiently represented in the media? If only 1% of the quotations coming from politicians are about it do you think that that's enough to save the world? We believe that this question, is a question that every person should answer for himself.
 
-## Research Question 4 - What are main differences and common patterns between media sources about speaker profiles for environmental quotes?
+## Does it matter what you read or watch?
+<p align="center" style="padding:20px;" >
+  <img src="resources/distribution_top4_pol_parties.png" alt="unknown speaker profile"  />
+</p>
+We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source breitbart (something unusual perhaps). 
 
-After having analyzed speakers in general in part 1, a deep time series analysis in part 2 and some topic relevant investigations in part 3, we saw in part 4 what drives the characteristics between speakers that have been quoted about the environment in the top 10 news papers measured by their total count of all environmentally related quoted between 2018 and 2020. While all top 10 news sources had a share that is roughly equal, there were some interesting differences when it comes to the speakers attributes within a specific news source. We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source breitbart (something unusual perhaps). Also their occupations differed quite a lot. Politicians, for example, were almost equally present in all news sources, while especially eurekalert, a science-based news journal quoted researchers much more often than any other profession, something we would expect. Finally, we digged deeper for those two rather opposing news sources and tried to find out what features determine the likelihood with which someone is quoted about the environment by breitbart. We found that being in the Democratic Party dramatically increases (by a factor 2) ones chances while also the age plays an important role.
+<p align="center" style="padding:20px;" >
+  <img src="resources/distribution_jobs_pernews.png" alt="unknown speaker profile"  />
+</p>
+
+Also their occupations differed quite a lot. Politicians, for example, were almost equally present in all news sources, higher for einnews and smh. Science-based news sources such as eurekalert and phys quoted researchers much more often than any other professions, something we would expect. Finally, we digged deeper for two rather opposing news sources: breitbart, a right-winged news magazine from the US (https://de.wikipedia.org/wiki/Breitbart_News_Network) vs eurekalert and tried to find out what features determine the likelihood with which someone is quoted about the environment by breitbart. We found that being in the Democratic Party dramatically increases (by a factor 2) ones chances while also the age plays an important role, although not as strong as expected.
 
 
 ### Markdown
