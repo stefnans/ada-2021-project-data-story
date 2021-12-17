@@ -38,7 +38,7 @@ We need to come up with a better metric, that measures approximately the **likel
 
 and we can translate this into the likelihood of speaker speaking about the environment, given he has feature f.
 
-![Environmental Ratios of top occupations vs Top environmental ratios](resources/top_ratios_vs_ratios_tops.png)
+![Environmental Ratios of top occupations vs Top environmental ratios](resources/occupation_top_ratios_vs_ratios_tops.png)
 
 For example, using this ratio we can see that the jobs with the highest environmental ratio tend to be within **Sports** (e.g. football player...) & **Arts**(e.g. musician, actor).
 
