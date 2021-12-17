@@ -45,7 +45,7 @@ We can now use this metric to compare the environmental ratios for the top occup
 This tells us that you are more likely to talk about the environment if you were an American Football Player or a television actor than if you were a politician or a researcher!
 
 <p align="center" style="padding:20px;" >
-  <img src="resources/combining_features_ratios.png" alt="Combining the ratios of the features together"  />
+  <img src="resources/combining_speakers_features.png" alt="Combining the ratios of the features together"  />
 </p>
 
 Now if we combine the top ratios from each feature separately, we get the following approximate environment speaker profile:
