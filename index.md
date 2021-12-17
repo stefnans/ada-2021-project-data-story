@@ -114,7 +114,7 @@ Now coming back to our initial question, is the climate change sufficiently repr
 
 ## 4. Does it matter what you read?
 
-To understand a bit more in depth which profiles of speakers are relevant when considerin specific news papers, we now focus on the top 10 news sources that we obtained by considering the entire environmental quotes between 2018 and 2020. We then specifically analyzed the following attributes 
+To understand a bit more in depth which profiles of speakers are relevant when considering specific news papers, we now focus on the top 10 news sources that we obtained by considering the entire environmental quotes between 2018 and 2020. We then specifically analyzed the following attributes 
 
 - the speakers political party to see common profiles among news sources.
 - their occupation which is often also linked to their political views.
