@@ -44,6 +44,17 @@ We can now use this metric to compare the environmental ratios for the top occup
 
 This tells us that you are more likely to talk about the environment if you were an American Football Player or a television actor than if you were a politician or a researcher!
 
+<p align="center" style="padding:20px;" >
+  <img src="resources/combining_features_ratios.png" alt="Combining the ratios of the features together"  />
+</p>
+
+Now if we combine the top ratios from each feature separately, we get the following approximate environment speaker profile:
+- They're likely working in **Arts & Entertainment**
+- They're likely from the **LGBTQ community** (doesn't identify as *male* or *female*)
+- They're likely from the **western hemisphere (culturally and politically speaking)**
+- They're **older than 40 years old**
+- They are **equally likely** to talk about the environment whether they **have an academic degree or not**.
+
  Note that up until now, we **isolated each feature** and then we did analysis on it separately from the other features. But one must remember that a speaker's profile is made up of several features, and sometimes the distribution of one feature may affect the distribution of another. And hence analysis should be made on the profile as a combined set of features, and not as a combination of analysis of each separate feature. 
 
 ## Santiago
