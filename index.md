@@ -11,9 +11,9 @@ For this study, we're conducting our analysis on the Quotebank dataset from the 
 
 ## Organization
 1. Analysis of the most common profiles of the speakers who talk about the environment.
-2. A time analysis of the topics (Questions 3 and 4)
-3. Environment topic wrt to other topics (Question 5)
-4. Representation of topics in different newspapers (Question 6)
+2. A time analysis of the topics 
+3. Climate change representation in comparison with other topics.
+4. Representation of topics in different newspapers 
 
 ## 1.  Would you talk about the environment?
 The subject of the environment is brought to light by the people who talk about it. So if we're asking the question of whether the environment is well represented in the media, it stands to reason to know by whom is it usually represented.
@@ -45,7 +45,9 @@ and we can translate this into the likelihood of speaker speaking about the envi
 
 ### Santiago
 
-### Nearchos
+### Research Question 3 - What is the magnitude of the presence of enviromental quotes compared to other significant topics ? A year in review. 
+
+To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. To begin with, we noticed that during 2020 the percentage of quotations related to the environment were less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment. Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made by this group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
 
 ### Research Question 4 - What are main differences and common patterns between media sources about speaker profiles for environmental quotes?
 
