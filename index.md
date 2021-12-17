@@ -99,47 +99,14 @@ Also other parties are often represented such as the Autralian Labor Party, espe
 Also their occupations differed quite a lot. Politicians, for example, were almost equally present in all news sources, higher for *einnews* and *smh*. Science-based news sources such as *eurekalert* and *phys* quoted researchers much more often than any other professions, something we would expect. Finally, we digged deeper for two rather opposing news sources: *breitbart*, a right-winged news magazine from the US (https://de.wikipedia.org/wiki/Breitbart_News_Network) vs *eurekalert* and tried to find out what features determine the likelihood with which someone is quoted about the environment by *breitbart*. We found that being in the Democratic Party dramatically increases (by a factor 2) ones chances while also the age plays an important role, although not as strong as expected. We also included the occupation, by encoding it as 1 of a speaker is either a researcher of journalist as these are jobs that are frequently under attack from people from the right spectrum. However, this feature did not turn out to be significant.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ## Conclusion
-In this study, we've tried to answer the question about whether the environment has a good representation in the media. It's a hard question to answer so we approached it from different angles: 
+In this study, we've tried to answer how the environment is represented in the media. It's a hard question to answer so we approached it from different angles: 
 - It was interesting to see who's likely to speak about the environment 
 - 
--
+- On the one hand it is equally represented with other similar topics but on the other hand it is under-represented by politicians in comparison with the scientific community.
 - 
 
 We've seen that the environment is not equally represented across the media. 
 TODO: ouverture
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stefnans/ada-2021-project-data-story/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-You can use the [editor on GitHub](https://github.com/stefnans/ada-2021-project-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For a more detailed analysis you can visit our [original project Girhub page](https://github.com/epfl-ada/ada-2021-project-comic-sans).
