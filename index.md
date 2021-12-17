@@ -52,10 +52,7 @@ To answer this equation first we had to decide : Which other topics should we us
 ### Research Question 4 - What are main differences and common patterns between media sources about speaker profiles for environmental quotes?
 
 After having analyzed speakers in general in part 1, a deep time series analysis in part 2 and some topic relevant investigations in part 3, we saw in part 4 what drives the characteristics between speakers that have been quoted about the environment in the top 10 news papers measured by their total count of all environmentally related quoted between 2018 and 2020. While all top 10 news sources had a share that is roughly equal, there were some interesting differences when it comes to the speakers attributes within a specific news source. We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source breitbart (something unusual perhaps). Also their occupations differed quite a lot. Politicians, for example, were almost equally present in all news sources, while especially eurekalert, a science-based news journal quoted researchers much more often than any other profession, something we would expect. Finally, we digged deeper for those two rather opposing news sources and tried to find out what features determine the likelihood with which someone is quoted about the environment by breitbart. We found that being in the Democratic Party dramatically increases (by a factor 2) ones chances while also the age plays an important role.
-### Example graph
-How likely are you to speak about the environment if you have an academic degree? You're not, here's why:
 
-![academic degree likeability](resources/academic_degree_ratios.png)
 
 ### Markdown
 
