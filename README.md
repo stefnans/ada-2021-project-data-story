@@ -1,2 +1,4 @@
 # ada-2021-project-data-story
-Applied Data Analysis: Project Data Story 2021 
+This is the repository for the project data story.
+
+For the actual repository please go to https://github.com/epfl-ada/ada-2021-project-comic-sans.
