@@ -32,7 +32,7 @@ In that sense, it's interesting to see who are the people that talk about the en
 
 For instance, only 1% of the speakers are recorded having an academic degree. So if we count the ones who have spoken about the environment, we are bound to find that most them are uneducated because of the underlying overall distribution of the speakers having an academic degree or not. This can make us draw bad conclusions from this.
 
-We need to come up with a better metric, that measures approximately the **likelihood of speaker talking about the environment based on a certain feature**. For this we can use the **ratio of environmental speakers per feature** or in short **the environmental ratio**. That is for a certain feature f we calculate:
+We need to come up with a better metric, that measures approximately the **likelihood of speaker talking about the environment based on a certain feature**. For this we can use the **ratio of environmental speakers per feature**. That is for a certain feature f we calculate:
 
 *# environmental speakers with feature f / total # of speakers with feature f*
 
@@ -40,21 +40,22 @@ and we can translate this into the likelihood of speaker speaking about the envi
 
 ![Environmental Ratios of top occupations vs Top environmental ratios](resources/top_ratios_vs_ratios_tops.png)
 
-For example, using this ratio we can see that the jobs with the highest environmental ratio tend to be within **Sports** (e.g. football player...) & **Arts**(e.g. musician, actor).
-
-Using this approach we get the following:
-
-[TODO]
 
  Note that up until now, we **isolated each feature** and then we did analysis on it separately from the other features. But one must remember that a speaker's profile is made up of several features, and sometimes the distribution of one feature may affect the distribution of another. And hence analysis should be made on the profile as a combined set of features, and not as a combination of analysis of each separate feature. 
 
-### Santiago
+## Santiago
 
-### Research Question 3 - What is the magnitude of the presence of enviromental quotes compared to other significant topics ? A year in review. 
+## 3. Are we being fair ? A year in review. 
 
-To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. To begin with, we noticed that during 2020 the percentage of quotations related to the environment were less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment. Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made by this group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
+Is the environment equally represented in relation with other crucial topics? To answer this equation first we had to decide : Which other topics should we use in order to draw a meaningful comparison ? The topics we concluded to were LGBT Rights, Brexit and Gun Control. What lead us to this decision is our belief that during the time that our dataset is covering these topics were similarly occupying the common people and the press. Additionaly, they are all polarizing issues with multiple ethical standpoints but also potential devastating effects on the community. To begin with, we noticed that during 2020 the percentage of quotations related to the environment were less than 0.8% followed closely by LGBT rights while the other 2 topics were even lower. Moving on, we made an analysis as to how these topics are represented in newspapers. For this task we chose newspapers whose followers were considered to be either in liberal or conservative ideological group. Our conclusion was that the more conservative the readers of a certain newspaper were, the more the distribution of the quotes among those four topics was leaning towards the environment.
 
-### Research Question 4 - What are main differences and common patterns between media sources about speaker profiles for environmental quotes?
+<p align="center" style="padding:20px;" >
+  <img src="resources/topic_distribution.jpg" alt="unknown speaker profile"  />
+</p>
+
+ Next, we investigated this magnitude of environmental quotes but from a speaker's point of view. Our inquiry was the following : Given a group of people formed by a common attribute, in relation to the total amount of quotes made by this group of people, what percentage of these quotes was related to the environment ? Based on occupation our results the group of people with the highest numbers were the researchers, followed by the independent politicians and then the Germans.
+
+## Research Question 4 - What are main differences and common patterns between media sources about speaker profiles for environmental quotes?
 
 After having analyzed speakers in general in part 1, a deep time series analysis in part 2 and some topic relevant investigations in part 3, we saw in part 4 what drives the characteristics between speakers that have been quoted about the environment in the top 10 news papers measured by their total count of all environmentally related quoted between 2018 and 2020. While all top 10 news sources had a share that is roughly equal, there were some interesting differences when it comes to the speakers attributes within a specific news source. We found that in particular people have been quoted with high shares by almost all news that belong to the Democratic Party and the Republican Party. What was striking was the rather high share of Democratic speakers that have been quoted by the right-winged news source breitbart (something unusual perhaps). Also their occupations differed quite a lot. Politicians, for example, were almost equally present in all news sources, while especially eurekalert, a science-based news journal quoted researchers much more often than any other profession, something we would expect. Finally, we digged deeper for those two rather opposing news sources and tried to find out what features determine the likelihood with which someone is quoted about the environment by breitbart. We found that being in the Democratic Party dramatically increases (by a factor 2) ones chances while also the age plays an important role.
 
@@ -81,7 +82,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Conclusion
+## Conclusion
 In this study, we've tried to answer the question about whether the environment has a good representation in the media. It's a hard question to answer so we approached it from different angles: 
 - It was interesting to see who's likely to speak about the environment 
 - 
