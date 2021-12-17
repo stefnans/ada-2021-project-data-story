@@ -63,8 +63,8 @@ If one is to tackle the problems introduced by climate change, one needs to be w
 
 We start our analysis by looking at the distribution of the number of articles (environment related) over the years.
 
+{% include resources/hist_all.html %}
 
-<div style="text-align: center"><iframe src="resources/hist_all.html"></iframe></div>
 
 At first hand, what strikes the most is the peak spanning from September 19, 2019 to September 28 of the same year. 
 The sudden surge in articles for the aforementioned period could be explained by the fact that the Global Week for Future strikes (i.e. series of international strikes and protests to demand action be taken to address climate change) and the UN climate summit, took place at the same time.
@@ -83,12 +83,11 @@ From 2018 to 2019, it appears there is an improvement in the media's awareness w
 
 Now that we got an overall picture of the evolution (of the media's interest on the given topic) over time, it can be useful as well to do an analysis per media source case. For the later, we will focus on six media sources: MSN, Breitbart, Carbon Brief, CNN, N.Y. Times and Fox News. The following, is sequence of pie charts presenting the proportion that each of the media sources represents with respect to total number of environment related articles (for period of interest).
 
+{% include resources/pie_2018.html %}
 
-<div style="text-align: center"><iframe src="resources/pie_2018.html"></iframe></div>
+{% include resources/pie_2019.html %}
 
-<div style="text-align: center"><iframe src="resources/pie_2019.html"></iframe></div>
-
-<div style="text-align: center"><iframe src="resources/pie_2020.html"></iframe></div>
+{% include resources/pie_2020.html %}
 
 
 N.B. It is advised to hide the "other news source" (from the pie chart), in order to get a better visual of the other proportions (i.e. the ones associated with the news sources of interest). This can be done by clicking on the name "other news source".
