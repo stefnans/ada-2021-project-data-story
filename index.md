@@ -57,7 +57,43 @@ Now if we combine the top ratios from each feature separately, we get the follow
 
  Note that up until now, we **isolated each feature** and then we did analysis on it separately from the other features. But one must remember that a speaker's profile is made up of several features, and sometimes the distribution of one feature may affect the distribution of another. And hence analysis should be made on the profile as a combined set of features, and not as a combination of analysis of each separate feature. 
 
-## Santiago
+## 2. Are we going in the right way?
+
+If one is to tackle the problems introduced by climate change, one needs to be well informed. Such is the importance of an appropriate representation of environment related issues by the media. It is therefore of great interest and importance to analyse how such a portrayal has evolved over the years (in this particular case, from 2018 to 2020). 
+
+We start our analysis by looking at the distribution of the number of articles (environment related) over the years.
+
+
+<div style="text-align: center"><iframe src="resources/hist_all.html"></iframe></div>
+
+At first hand, what strikes the most is the peak spanning from September 19, 2019 to September 28 of the same year. 
+The sudden surge in articles for the aforementioned period could be explained by the fact that the Global Week for Future strikes (i.e. series of international strikes and protests to demand action be taken to address climate change) and the UN climate summit, took place at the same time.
+
+As for the valleys, one could argue that another topic shifted media's attention during the given period. In particular, a possible explanation behind the low frequency of articles during the first months of 2020 could be the outbreak of COVID-19. Indeed, most media sources were mostly focused on keeping track with the evolution of the pandemic.
+
+To add to this first analysis, we compute the average number of articles (environment related) per day:
+
+| Year| Average number of articles (environment related) per day  |
+| --- | --- |
+| 2018 | 1106.693 |
+| 2019 | 1348.170 |
+| 2020 | 936.139 |
+
+From 2018 to 2019, it appears there is an improvement in the media's awareness with respect to the environment. Unfortunately, this seems not to be the case for the following year. Does this mean that we're going backwards? Or is it just a temporary byproduct due to the unexpected events that took place over the year (events which could have stole the media's attention)? 
+
+Now that we got an overall picture of the evolution (of the media's interest on the given topic) over time, it can be useful as well to do an analysis per media source case. For the later, we will focus on six media sources: MSN, Breitbart, Carbon Brief, CNN, N.Y. Times and Fox News. The following, is sequence of pie charts presenting the proportion that each of the media sources represents with respect to total number of environment related articles (for period of interest).
+
+
+<div style="text-align: center"><iframe src="resources/pie_2018.html"></iframe></div>
+
+<div style="text-align: center"><iframe src="resources/pie_2019.html"></iframe></div>
+
+<div style="text-align: center"><iframe src="resources/pie_2020.html"></iframe></div>
+
+
+N.B. It is advised to hide the "other news source" (from the pie chart), in order to get a better visual of the other proportions (i.e. the ones associated with the news sources of interest). This can be done by clicking on the name "other news source".
+
+First of all, we can see that the proportions don't seem to vary that much over the years. What's more, among the articles from the news sources of interest (i.e. MSN, Breitbart, Carbonbrief, Fox News, N.Y. Times and CNN), almost half of them are from MSN. It is worth mentioning that the later is a news aggregator, which might explain the large number of articles. Mainstream media sources usually have a larger staff. Therefore, one could expect that said news sources would amount for the largest number of articles. However, this is not the case. Indeed, news sources such as Breitbart and Carbonbrief (which are "less" known), amount for more than a third of the articles from the news sources of interest (i.e. excluding "other news source"). Finally, we notice that the news sources studied only amount for around 3.2% of the total number of environment related articles.
 
 ## 3. Are we being fair ? A year in review. 
 
@@ -102,11 +138,12 @@ Also their occupations differed quite a lot. Politicians, for example, were almo
 ## Conclusion
 In this study, we've tried to answer how the environment is represented in the media. It's a hard question to answer so we approached it from different angles: 
 - It was interesting to see who's likely to speak about the environment 
-- 
+- The time analysis shows a potential improvement in the media's portrayal of environment related topics (i.e. overall increase in the number of articles environment related over time). Unfortunately, said improvement came to a halt, presumably due to unprecented events which stole the media's attention (e.g. COVID-19 outbreak).
 - On the one hand it is equally represented with other similar topics but on the other hand it is under-represented by politicians in comparison with the scientific community.
 - 
 
 We've seen that the environment is not equally represented across the media. 
-TODO: ouverture
+
+A potential sentiment analysis on the quotes analysed could further complement the work done so far.
 
 For a more detailed analysis you can visit our [original project Girhub page](https://github.com/epfl-ada/ada-2021-project-comic-sans).
