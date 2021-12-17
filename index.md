@@ -141,8 +141,6 @@ In this study, we've tried to answer how the environment is represented in the m
 - On the one hand it is equally represented with other similar topics but on the other hand it is under-represented by politicians in comparison with the scientific community.
 - Environmental topics is almost equally distributed among the top 10 news sources. Especially speakers belonging to the Democratic party were overrepresented and the right-winged news magazine breitbart quoted people from that party surprisingly often, something that one would not expect. 
 
-We've seen that the environment is not equally represented across the media. 
-
 A potential sentiment analysis on the quotes analysed could further complement the work done so far.
 
 For a more detailed analysis you can visit our [original project Github page](https://github.com/epfl-ada/ada-2021-project-comic-sans).
