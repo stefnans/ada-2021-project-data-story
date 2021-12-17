@@ -30,7 +30,7 @@ In that sense, it's interesting to see who are the people that talk about the en
 
  ![distribution of all speakers attributes](resources/distribution_of_speakers_attributes.png)
 
-For instance, only 1% of the speakers are recorded having an academic degree. So if we count the ones who have spoken about the environment, we are bound to find that most them are uneducated because of the underlying overall distribution of the speakers having an academic degree or not. This can make us draw bad conclusions from this.
+For instance, only 1% of all speakers are recorded having an academic degree. So if we count the ones who have spoken about the environment, we are bound to find that most them are uneducated because of the huge underlying overall distribution of the speakers without an academic degree. This can make us draw bad conclusions from this.
 
 We need to come up with a better metric, that measures approximately the **likelihood of speaker talking about the environment based on a certain feature**. For this we can use the **ratio of environmental speakers per feature**. That is for a certain feature f we calculate:
 
