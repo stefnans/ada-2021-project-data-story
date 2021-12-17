@@ -38,7 +38,7 @@ We need to come up with a better metric, that measures approximately the **likel
 
 and we can translate this into the likelihood of speaker speaking about the environment, given he has feature f. 
 
-We can now use this metric to compare the environmental ratios for the top occupations of the speakers, to the occupations with the highest said ratios:
+We can now use this metric for example to compare the environmental ratios for the top occupations of the speakers, to the occupations with the highest said ratios:
 
 ![Environmental Ratios of top occupations vs Top environmental ratios](resources/occupation_top_ratios_vs_ratios_tops.png)
 
@@ -136,7 +136,7 @@ Also their occupations differed quite a lot. Politicians, for example, were almo
 
 ## Conclusion
 In this study, we've tried to answer how the environment is represented in the media. It's a hard question to answer so we approached it from different angles: 
-- It was interesting to see who's likely to speak about the environment 
+- First, it was interesting to see who's likely to speak about the environment. We took a simplistic approach into observing the features of a speaker's profile and which ones made them more likely to speak about the environment. This of course is not a perfect representation of the actual reality. We need to do heavy regression analysis to pinpoint the best features we can use from a speaker's profile to accomplish our task. But it already gives a good idea of what a typical environment speaker would be, and whether it lines up with your expectations. 
 - The time analysis shows a potential improvement in the media's portrayal of environment related topics (i.e. overall increase in the number of articles environment related over time). Unfortunately, said improvement came to a halt, presumably due to unprecented events which stole the media's attention (e.g. COVID-19 outbreak).
 - On the one hand it is equally represented with other similar topics but on the other hand it is under-represented by politicians in comparison with the scientific community.
 - 
