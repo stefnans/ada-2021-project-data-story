@@ -26,7 +26,9 @@ In that sense, it's interesting to see who are the people that talk about the en
 </p>
  
 
- Note that this analysis was done **purely from the speaker's point of view**, we don't take into account in which newspaper or at what time period did the speaker utter this quotation. For this, we filtered the quotations that talk about the environment, and we retrieved their corresponding speakers along with their characteristics (or **features**). The initial method was easy enough, just count the features that appear most frequently within the environmental speakers. But that is not a sound idea, since the distribution of the features of the environmental speakers may be polluted by the underlying distribution of these features among all speakers.
+ Note that this analysis was done **purely from the speaker's point of view**, we don't take into account in which newspaper or at what time period did the speaker utter this quotation.
+ 
+ For this, we filtered the quotations that talk about the environment, and we retrieved their corresponding speakers along with their characteristics (or **features**). The initial method was easy enough, just count the features that appear most frequently within the environmental speakers. But that is not a sound idea, since the distribution of the features of the environmental speakers may be polluted by the underlying distribution of these features among all speakers.
 
  ![distribution of all speakers attributes](resources/distribution_of_speakers_attributes.png)
 
@@ -36,9 +38,9 @@ We need to come up with a better metric, that measures approximately the **likel
 
 *# environmental speakers with feature f / total # of speakers with feature f*
 
-and we can translate this into the likelihood of speaker speaking about the environment, given he has feature f. 
+and we can translate this into the likelihood of a speaker speaking about the environment, given he has feature f. 
 
-We can now use this metric for example to compare the environmental ratios for the top occupations of the speakers, to the occupations with the highest said ratios:
+We can now use this metric for example, to compare the environmental ratios for the top occupations of the speakers, to the occupations with the highest said ratios:
 
 ![Environmental Ratios of top occupations vs Top environmental ratios](resources/occupation_top_ratios_vs_ratios_tops.png)
 
